@@ -1,0 +1,3 @@
+CS 536 is an introduction to the design and translation of programming languages. Subjects to be covered include symbol tables, scanning and regular expressions, Lex and Flex, context-free grammars and parsing, Yacc and Bison, abstract syntax trees, code-generation, and syntax-directed compilation. A variety of tools, including JLex, JavaCUP and Jasmin will be used. Concepts of name scoping, modularization, and type rules will be considered in a number of languages.
+
+Class projects will be components of a simple compiler for the language CSX, a blend of C, C++ and Java. Projects will be implemented in Java.
